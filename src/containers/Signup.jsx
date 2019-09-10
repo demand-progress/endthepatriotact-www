@@ -29,14 +29,13 @@ class Signup extends Component {
                         <div id="congress-alert">
                             <div>
                                 
-                                <p>There’s still more you can do — senators need to hear from their constituents that you want them to cosponsor net neutrality legislation and demand Mitch McConnell allow a vote.</p>
+                                <p>Thank you so much for writing to your members of Congress urging them to shut down Section 215 of the Patriot Act. Now, can you help keep up our momentum by giving them a call?</p>
 								<h4>
-									Call Now: <br />
-									858-264-0403
+                                CALL: <a href="tel://2017316757">201-731-6757</a>
 								</h4>
 								<p>We'll connect you to your lawmakers. You can use this script — just introduce yourself, be polite, and say:</p>
 
-								<p><em><i>"I'm calling to tell my lawmakers I support strong net neutrality, and I want them to cosponsor and demand a vote on the Save the Internet Act in the Senate. Thank you."</i></em></p>
+								<p><em><i>"I'm calling to tell my lawmakers I want them to stop unethical and unjust government spying by shutting down Section 215 of the Patriot Act for good. Thank you."</i></em></p>
 
 
                             </div>
